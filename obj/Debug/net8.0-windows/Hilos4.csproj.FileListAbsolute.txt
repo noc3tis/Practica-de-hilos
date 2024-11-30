@@ -1,0 +1,16 @@
+C:\Users\daniu\source\repos\Hilos4\Hilos4\bin\Debug\net8.0-windows\Hilos4.exe
+C:\Users\daniu\source\repos\Hilos4\Hilos4\bin\Debug\net8.0-windows\Hilos4.deps.json
+C:\Users\daniu\source\repos\Hilos4\Hilos4\bin\Debug\net8.0-windows\Hilos4.runtimeconfig.json
+C:\Users\daniu\source\repos\Hilos4\Hilos4\bin\Debug\net8.0-windows\Hilos4.dll
+C:\Users\daniu\source\repos\Hilos4\Hilos4\bin\Debug\net8.0-windows\Hilos4.pdb
+C:\Users\daniu\source\repos\Hilos4\Hilos4\obj\Debug\net8.0-windows\Hilos4.Form1.resources
+C:\Users\daniu\source\repos\Hilos4\Hilos4\obj\Debug\net8.0-windows\Hilos4.csproj.GenerateResource.cache
+C:\Users\daniu\source\repos\Hilos4\Hilos4\obj\Debug\net8.0-windows\Hilos4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniu\source\repos\Hilos4\Hilos4\obj\Debug\net8.0-windows\Hilos4.AssemblyInfoInputs.cache
+C:\Users\daniu\source\repos\Hilos4\Hilos4\obj\Debug\net8.0-windows\Hilos4.AssemblyInfo.cs
+C:\Users\daniu\source\repos\Hilos4\Hilos4\obj\Debug\net8.0-windows\Hilos4.csproj.CoreCompileInputs.cache
+C:\Users\daniu\source\repos\Hilos4\Hilos4\obj\Debug\net8.0-windows\Hilos4.dll
+C:\Users\daniu\source\repos\Hilos4\Hilos4\obj\Debug\net8.0-windows\refint\Hilos4.dll
+C:\Users\daniu\source\repos\Hilos4\Hilos4\obj\Debug\net8.0-windows\Hilos4.pdb
+C:\Users\daniu\source\repos\Hilos4\Hilos4\obj\Debug\net8.0-windows\Hilos4.genruntimeconfig.cache
+C:\Users\daniu\source\repos\Hilos4\Hilos4\obj\Debug\net8.0-windows\ref\Hilos4.dll
